@@ -1,0 +1,92 @@
+h1 {
+    color: blueviolet;
+}
+
+h1 {
+    margin: 100px 70px 60px 300px; 
+}
+
+body {
+    background-color: antiquewhite; 
+}
+
+.Image-container {
+    margin: 25PX 20PX 25PX 25PX; 
+    border: 30px;
+}
+
+div {
+    padding-top: 60px;
+    padding-right: 50px;
+    padding-block: 50px;
+    padding-block-start: 50px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    object-fit: contain;
+}
+
+img {
+    transform: scale(1.0);
+}
+
+img {
+    box-shadow: 5px 5px 10px rgba(150, 48, 48, 0.5);
+}
+
+img {
+    inset: 0 0 15px rgba(241, 21, 21, 0.5);
+}
+
+img {
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(51, 30, 30, 0.5);
+}
+
+body {
+    border: 200px;
+    border-top: 250px;
+    border-width: 250px;
+    border-right: 250px;
+    border-left: 250px;
+}
+
+.Image-container {
+    background-color: #ecedee;
+}
+
+.image-container:hover {
+    box-shadow: 0 8px 20px rgba(134, 247, 59, 0.5);
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.Image-container img {
+    transition: box-shadon 0.3s ease;
+
+}
+
+.Image-container img:hover {
+    box-shadow: 0 8px 20px rgba(216, 89, 89, 0.5);
+}
+
+img {
+    box-shadow: 0 4px 10px rgba(240, 93, 93, 0.3); 
+    border-radius: 10px; 
+}
+
+img {
+    transition: box-shadow 0.3s ease;
+}
+
+.Image-container img {
+    filter: drop-shadow(5px 5px 15px rgba(228, 8, 8, 0.959));
+}
+
